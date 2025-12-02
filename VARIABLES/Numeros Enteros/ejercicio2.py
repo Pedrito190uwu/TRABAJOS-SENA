@@ -1,0 +1,16 @@
+a = -12;
+b = -2;
+suma = a + b;
+print("La suma de", a, "y", b, "es:", suma);
+resta = a - b;
+print("La resta de", a, "y", b, "es:", resta);
+multiplicacion = a * b;
+print("La multiplicación de", a, "y", b, "es:", multiplicacion);
+cociente = a / b;
+print("El cociente de", a, "y", b, "es:", cociente);
+residuo = a % b;
+print("El residuo de", a, "y", b, "es:", residuo);
+potencia = a ** b;
+print("La potenciacion base de", a, "exponente a", b, "es:", potencia);
+div_entera = a // b;
+print("La división entera de", a, "y", b, "es:", div_entera);
